@@ -1,0 +1,225 @@
+a9413dff-91d1-4e29-ad92-c04019dce5b8	Tōḍi
+123b09bd-9901-4e64-a65a-10b02c9e0597	Bhairavi
+bf4662d4-25c3-4cad-9249-4de2dc513c06	Kalyāṇi
+a2f9f182-0ceb-4531-b286-b840b47a54b8	Śankarābharaṇaṁ
+f972db4d-5d16-4f9a-9841-f313e1601aaa	Karaharapriya
+f0866e71-33b2-47db-ab75-0808c41f2401	Kāṁbhōji
+85ccf631-4cdf-4f6c-a841-0edfcf4255d1	Kāmavardani
+ea7f610a-06f4-4461-ba8b-e115f238375c	Rāgamālika
+39821826-3327-41d7-9cd5-e22fe7b08360	Mōhanaṁ
+b6989a44-e85d-43cf-8b95-2eae5dcd28a2	Pūrvīkaḷyāṇi
+a4ec6633-1050-4207-8313-b017194c8fa0	Kamās
+0277eae5-3411-4b22-9fa8-1b347e7528d1	Ṣanmukhapriya
+aa5f376f-06cd-4a69-9cc9-b1077104e0b0	Bēgaḍa
+b08475a2-1049-433a-be8f-105bf14718fb	Harikāmbhōji
+26553105-ee8c-4c90-aabf-18f16e37d603	Hindōḷaṁ
+2a851793-8ccc-448a-9f82-42940d5d84b7	Kīravāṇi
+a47e9d22-847a-46e8-b589-2a3537789f5f	Sāvēri
+d2e62f9d-0b14-454e-a770-a05080d52730	Simhēndra madhyamaṁ
+4ce0b18d-f4df-41cf-9b40-9166199506b4	Rītigauḷa
+978f4c3c-6a12-43fd-8427-c414ee17b252	Mukhāri
+e8a0bf54-13c6-4a09-922a-bfc744ddf38a	Varāḷi
+2165542c-45da-4301-af82-c2e7ddbe4768	Bilahari
+59761d51-b251-4d9d-b0be-5faddf7c17fe	Ābhōgi
+9a071e54-3eed-48b2-83a3-1a3fd683b8e0	Kānaḍa
+09c179f3-8b19-4792-a852-e9fa0090e409	Kāpi
+e18fcaa7-1f9c-4f09-b627-0687481f4ec7	Ānandabhairavi
+cda9cbe9-c1aa-42bb-8b4c-e9dfc8af133c	Nāṭakurinji
+df85a0a5-b1a8-42f1-a87b-3d7c7ee33fb4	Kēdāragauḷa
+5ce23030-f71d-4f5d-9d76-f91c2c182392	Dhanyāsi
+77bc3583-d798-4077-85a3-bd08bc177881	Hamsadhvani
+9ebeb536-30a7-403f-8042-f7c1445c4b87	Nāṭa
+3f777cd6-df83-43ad-8e32-949a4b3fc5ad	Vācaspati
+839bb6b4-1577-4a78-9e5d-4906c6453274	Suraṭi
+8275beb8-c976-441e-8483-32b72455d559	Ābhēri
+18b1acb9-dff6-47ec-873a-b2086c8d268d	Madhyamāvati
+c16d6988-7edb-4768-b3bd-0191718b3ba5	Ārabhi
+9cedca68-4a9d-4170-bec3-0d1db1ff730e	Māyāmāḷavagauḷa
+b7bcda0d-9f56-4e8d-992e-e8638ca4dfd9	Dharmāvati
+ddff55ae-20f6-4d7d-ba9e-a6c10eeebd41	Yadukula kāṁbōji
+700e1d92-7094-4c21-8a3b-d7b60c550edf	Behāg
+3911e7a5-a76d-4dcb-867a-a24a05017f2a	Cārukēśi
+993d6cf6-dc89-4d23-9a9f-8eeed1524872	Sahānā
+d5285bf4-c3c5-454e-a659-fec30075990b	Darbār
+98d46d9e-5100-4f24-bcd4-d0f95966c7cb	Sindhubhairavi
+eaaec039-5524-47fa-b23d-35d057462b84	Śubhapantuvarāḷi
+e931896a-50eb-4296-8c64-6cf63ed4900e	Śudda sāvēri
+defad4cc-48aa-4372-a31a-c43624930713	Dēvagāndhāri
+e5c4d94a-b34a-42ef-acd7-f235612350e4	Gauḷa
+42dd0ccb-f92a-4622-ae5d-a3be571b4939	Śrīranjani
+ac1eb394-661f-4081-8756-d6ed88402660	Vasanta
+bdd80890-44f1-4a93-8d93-06a418781f97	Śrī
+bc5ac554-59cf-4206-af78-f37aed66ac13	Saurāṣtraṁ
+6345e8fe-7061-4bdc-842c-dcfd4a379820	Aṭāna
+505187d3-1d73-4ef5-9b4a-7be2dea8b223	Kannaḍa
+116a5ddd-7716-4685-a997-73c92754d9cd	Ranjani
+b9cffe7d-3e19-4a49-9562-d6865e9f9b31	Yamuna kalyāṇi
+5f1d7032-9f84-46ce-be22-846aac47fcba	Kaḷyāṇa vasantaṁ
+d242961b-65cc-4721-aa80-7695b4b35d75	Sārāmati
+d99b1d3c-36d0-41d2-8303-59ede6da7b78	Haṁsanādaṁ
+446a669b-9f9a-436e-9796-869ea5a03412	Jaganmōhini
+ffb34126-adef-41c2-a9ad-4c592bf2aa49	Janaranjani
+c6b5f8d9-ebb4-46af-a020-6646fce2c77d	Sāma
+3af5a361-923a-465d-864d-9c7ba0c04a47	Sencuruṭṭi
+a2316b4a-fcb0-4dd7-b202-9916781fa702	Gamakakriyā
+307630ce-768a-495c-a280-0b715f8904fd	Nāṭakapriya
+1f4e3b71-9dbd-472b-8554-3e1f7234cac3	Darbārī kānaḍa
+71602b84-0817-46fd-a189-b127f77bed69	Gaṁbhīra nāṭa
+407a085c-e064-445b-a8cc-c296c058eea1	Dēvamanōhari
+62426742-1ae8-4119-8ae8-730a0ada315f	Hamīr kaḷyaṇi
+7f00e559-cc74-4cdc-a8b2-6263e548c1c3	Cakravākaṁ
+33eae464-0152-4e38-b9e4-b096d1798815	Dvijāvanti
+a6606174-0ef2-4966-bdc0-41e47ceac7cd	Dhēnuka
+1aca2106-7b2f-4292-8937-be015e47fb9e	Latāngi
+448af845-877d-4c60-8b45-23d95917a90a	Rēvati
+eb662c1f-cc8c-40ec-a94c-166fa258b051	Śuddadhanyāsi
+bee48230-2473-4e0c-98d8-b3ac5cc47d76	Lalita
+150133e0-0d4f-457f-9420-7c4bb05d8672	Asāvēri
+b7b3d6ce-5ce1-4f00-9cde-063cfd58246b	Bṛndāvana sāranga
+8a24e253-7be5-48d2-a2af-cdba3be187c6	Kuntalavarāḷi
+54bee7b6-2d11-46f1-a3fc-32bb27964f88	Amṛtavarṣiṇi
+6dce5b9e-98d2-475a-9664-32f4d316c26d	Āhiri
+1c9d32b8-81e7-4f48-b7f5-1b5e41c35248	Kāpi nārāyaṇi
+3d9d50f0-e5ea-42cf-8040-a8441a238d80	Mōhan kaḷyāṇi
+c7b94157-0577-4246-95d1-3e1ed513ae9f	Kedāraṁ
+184c1f41-c755-4d25-8482-7f2de267ec22	Bahudāri
+50c1a0d7-0468-4d0e-b37e-c65f462f83e5	Rasikapriya
+9db55ebf-99f1-4610-b4c3-572c6cf32603	Haṁsānandi
+61b91861-d839-4472-99e3-b6aa435884e4	Hēmavati
+5a47dbec-a4da-4862-add0-dde61821a893	Mānji
+269ee011-233e-409a-a657-63d15eca5243	Bāgēśrī
+5221dd51-f9c0-4eda-bb00-285387994c8e	Gaurīmanōhari
+3f200a6c-240e-4538-8908-0c56245aabc0	Jōnpuri
+ba09eb6e-078a-457c-b040-132fe27792a5	Kannaḍa gaula
+69f024ff-d012-4ddd-914f-1a3da9ae955d	Sunādavinōdini
+c3d4e7f7-1f96-49f1-98c0-8dacf263588f	Mānḍu
+50bd048f-4482-4c5b-850c-9ad5e5ec46f1	Hussēnī
+b912dae7-265a-4170-8dfa-e757987e10f7	Kalāvati
+719bb6eb-e167-4b1a-bae3-33c530b1916b	Sarasvatī manōhari
+ad8fbcac-1a59-4436-89e9-175200d26ad7	Karṇāṭaka kāpi
+972d1c47-edff-420b-802d-78b14069b103	Cālānāṭa
+698b0206-a72a-4190-a74f-b5bed3c82b4a	Maṇirangu
+bf22d4c6-d774-4cc3-866e-34e014f0933f	Nāgasvarāvaḷi
+b4cd8c41-994c-4c03-af33-8a5b2c227c9c	Nīlāṁbari
+8e94b762-5805-4816-9aa0-9a61819c683e	Valaji
+77f70165-3ffb-4cd6-af62-ef697700e0cc	Vasantabhairavi
+9ec38bd0-b8d1-4fae-99dc-bf6e98ce9f12	Bhūpāḷaṁ
+3bd9ddee-8ba2-460c-8bef-821d8152766d	Kurinji
+2642bb6f-10bc-4451-9b3f-e3cec8afb98b	Puṇṇāgavarāḷi
+43a65c07-78fc-4b0f-8c4c-bfec2a205221	Navarāgamālika
+11fda035-8741-484e-9ed1-785e1927ba83	Nādanāmakriya
+7f8c7c79-2d4e-4a01-901f-5ccc31b6d016	Vakuḷābharaṇaṁ
+1b84ffc3-22ab-4b7a-bdea-99ee5bd32b5a	Vāgadīśvari
+b9305177-f26c-48a9-8477-0fe6267f4e23	Dhanaśrī
+1ca17197-9349-499b-b572-ff8a8b3d3db7	Kumudakriyā
+459f01cd-aebc-4942-a5d5-681fd03e03cf	Dēś
+ce70da4e-0264-45ce-a031-fdd091f07906	Āndōḷika
+8db18e63-1de0-474e-b194-05dc99699285	Bauḷi
+fe582585-d4cc-4348-a121-2cdf7ff13446	Devāmṛtavarṣiṇi
+8f31d931-93a2-4f62-8c3a-ed94058946f0	Bṛndāvani
+baf9a24f-3b92-4a3d-9499-d5467fbeb31f	Candrajyōti
+d5f3448e-3665-4721-ac85-5b1cdea1d92b	Pūrṇacandrika
+e5a9b370-656c-4003-9f01-b3084b9097ad	Śudda sārang
+4a5912ee-72a7-4caa-bf83-25d75d25f42d	Gauḷipantu
+94fda214-69af-4004-ba58-14a2bad549a4	Vijayaśrī
+271205f0-986c-49d6-a146-318baa6bb59e	Sālaga bhairavi
+0462888b-cebe-473b-af4f-c03697f007c0	Śūḷiṇi
+02bb5f80-bd77-4320-a72b-59d8aed7b73c	Naḷinakānti
+a9232b55-8be9-412f-b0ed-1c895196f1c5	Varamu
+9e9d8820-ecc5-44b3-8131-60dbd40a0436	Mandāri
+857b3dfd-1931-47d8-bc9c-e2c8ba011cab	Kathanakutūhalaṁ
+45dc49e1-6a86-4f89-ad1e-b14453805b81	Sarasvati
+0b898852-971c-4f6f-8148-a5f1ed2e3d31	Paras
+80836153-6123-4da2-8a7d-b7de0c1b33da	Tanarūpi
+e29f83c4-63a6-4615-a736-1c3d62c46ec8	Vāsanti
+8af13c3e-3cbf-4e15-b098-67827a5d0853	Bhūṣāvaḷi
+2638339c-a867-47d0-b9c6-1995e8fbd044	Sāranga
+134473d4-2bbb-4b78-9600-a137ac577d3d	Jyōti svarūpiṇi
+fc69cc1d-c7f1-4ad9-a61a-56bbd5bb5d96	Naṭabhairavi
+8f9cf36c-1672-45f3-8cee-f7bb9718e2ef	Nāsikabhūṣaṇi
+a62c01ba-a4be-4951-831d-0153f8faf4db	Rāmapriya
+ae52e8e0-d755-411c-aecb-1b6e20a3c8a3	Ravicandrika
+77dd3ff7-02d3-4a3f-b60b-80f68deee744	Māḷavi
+f7791511-f1f4-4886-bd19-1004dfec4b30	Bhīmpalāsi
+d5763169-fbec-4d11-b295-cc0db252a142	Udaya ravicandrika
+9deee790-6210-41fe-8d0a-beef3a880ac6	Cintāmaṇi
+ef391ddc-0783-4953-bd5d-8568f3b5f3be	Karṇāṭaka behāg
+396fdd35-4e23-4cba-b327-35f86af8bea1	Miśra śivaranjani
+96f7f23b-0e49-42a8-a3be-3d494049e510	Malahari
+df6d7748-5599-47ce-aaae-496719ca67fa	Śivaranjani
+9ac1f24c-a3d6-402e-b1c7-e00543ceb953	Pāḍi
+ff409b74-92d8-4e5d-834c-4dfa05b1f187	Jayantaśrī
+dc031ade-4147-41b9-b13e-4cb24b1355c3	Pūrṇa ṣaḍjaṁ
+15206704-c035-4edf-850f-10ccc107ce79	Rudrapriya
+6e64197a-87d1-4258-b114-d219cb1230cd	Sucaritra
+6c7bc45a-8a55-4c43-8e55-a2916f736ed7	Jayantasēna
+e8b0199a-7f52-4175-b8a5-160135413198	Karṇāṭaka dēvagāndhāri
+b5601e32-2166-4a30-adb9-05d56ac39b3c	Lalita pancamaṁ
+8b19cbca-f096-4e13-9568-8927b22127bb	Navarasa kannaḍa
+928f0afd-6d50-4a3d-8246-04d02d443b90	Puṣpalatika
+e2f5b40b-eb84-4f0a-86a7-c97f31ccab0f	Carturdaśa rāgamālika
+3eac045e-8ca2-41b8-b3e2-fa96b5ad0402	Mārgahindōḷaṁ
+1c7f9e26-4dec-49b0-a1cf-10f3b8f3b8d3	Karṇaranjani
+e320dc32-5c9c-4331-a45e-6ca4a7a588f7	Tillāng
+c18f4888-bd82-4132-b01e-7e2d0e999295	Sumanēśaranjani
+0f6a2156-8c40-4eb8-b752-f7ceb6aadaa5	Maduvanti
+72e32039-3fe2-458e-9435-78c372e343dc	Durga
+405a6aac-a782-4e9e-a7c1-5f080c5c22d1	Cāyātarangiṇi
+4d7b3f93-5eb3-4a2d-bc76-7a5d89aaeb25	Paṭdīp
+743265fa-ee84-4af0-999d-b9e02d43dfa2	Hamsavinōdini
+638623d0-55d5-4a4f-99cb-eb978de55e13	Pūrvi
+084dc5a5-9594-410b-97ec-4723cc0286ea	Rēvagupti
+a5b58000-e984-46d2-ae8c-f29b6ac01d9e	Nārāyaṇi
+761ebea6-1c4c-4a35-8acb-7fbae19e021d	Gauḍa malhār
+91e06724-9986-429d-919f-878bae12ebe3	Vijayasarasvati
+a5c2359a-a347-4a84-aef3-7ca228f391f6	Kamalāmanōhari
+769f90eb-5707-4836-a9ea-8292bc9df1a0	Lavāngi
+e126681d-b3c0-43ce-b93c-9adddbff4036	Rāgēśrī
+24cde2bd-2774-476e-9e2b-6da7c6af4a2a	Kalgaḍa
+0d9e6511-ad1e-457d-b0e0-fb024a971f65	Varṇarūpini
+06e091bf-ee17-424c-8ef9-370626bfac44	Meghamalhar
+b9f89b19-3a53-4266-851b-3d50c2e0fe1f	Gānamūrti
+6cc419d4-cfdc-4d91-bd3e-9c6d609db2a1	Kāmaranjani
+a9b0d1c1-e0ae-4c96-89a9-aaa0817b356a	Bhāvapriya
+92cac0cc-1dbd-44e4-a287-0ddc6f4f7957	Madhyamā varāḷi
+6ed82032-8afe-4e57-9e43-ba49730d504b	Gōpikāvasantaṁ
+b04d5978-49cb-4a3e-a148-a42cbec432e5	Jōgiya
+77662d73-9da0-415f-810b-79e4302a1a5a	Malayamārutaṁ
+71ddf35b-55c6-4328-893f-1b6b32d18a71	Dīpāḷi
+d4cd4d3e-3391-416b-aa3f-ef0bc1966867	Budamanōhari
+4b1df9b3-371b-45d2-92fc-c2c9b5254324	Vēgavāhiṇi
+2440dffb-6d24-4d9c-a4cd-572bcb9a2605	Kaḷānidhi
+00d3fad7-116f-477b-918e-7fea8960fe8b	Gurjāri
+ad9199d8-9d36-47e5-9e0f-806419825dd4	Miśra khamāj
+a7a53f4c-c7af-4ff2-a26e-48a79a0ec8a2	Śuddasīmantini
+ab22be5f-1f86-4292-b0ec-7d73e2b2cebe	Miśra yaman
+661ff13c-bbc3-458c-9890-2e5992f0f5c3	Navrōj
+1bb0ef95-4e67-43e7-b562-f588466eee3c	Nirōṣita
+0ad2c103-8c06-4871-9d4f-bfe035af634d	Śyāṁ kaḷyāṇ
+f115aef7-3491-4e43-8d78-a8c3fc4efe6b	Rāgavinōdini
+d8fd0d8b-29df-4d80-9f12-4902999e0ea3	Kāntāmaṇi
+71bda563-9bc4-425d-86f0-9fa2df4870f4	Gāngēyabhūṣaṇi
+3684d967-55c6-4a78-84fd-1f82b6253d65	Vijayanagari
+dca97a7a-eef7-4e6b-ab32-935be8482c7a	Simhavāhini
+abff832d-ecbe-4914-a002-8ec40332c8eb	Pahāḍi
+8d808dec-c32f-46c0-a275-a0ab32d1e06e	Gaṁbhīra vāṇi
+78928ab0-1533-4f7d-a891-182d9bb3a400	Miśra pahāḍi
+92fb8824-515c-458a-883f-24ca6bfe034c	Vandanadhāriṇi
+3d9f7091-f81b-4333-88f2-32dbec7b473d	Hindōḷa vasantaṁ
+55134e48-3ad4-4a52-9fa0-6d01e4a1a0bc	Jaya manōhari
+b9d84a3e-0cdd-48db-9f7b-1c462419e012	Sindhumandāri
+f040991c-9950-4742-815f-4ff00eb51629	Cittaranjani
+ccc2de0c-b290-478c-85a3-1f08aa6aee1f	Svararanjani
+1f12126a-d562-4f61-9132-6fea80834240	Cencu kāmbhōji
+08b59d62-1189-4dcb-9e4a-41ee1b6a184a	Jingala
+65899a79-7614-4188-b4b1-5304f41d710c	Amṛtavāhiṇi
+c114eff2-6f60-492f-9a22-82e4f6af9f19	Balahaṁsa
+5a209316-8247-41c5-b900-00b0651435dc	Kīraṇāvaḷi
+d675ee9c-e9d8-46f8-9475-6063ae7b187d	Nāyaki
+50d9b542-3ebd-4b02-b9c8-5d780255de20	Nāga gāndhāri
+b7bf0022-52f8-48c9-9b1d-0463c635a5dd	Ratipati priya
+85fb4923-c44d-41a5-9dd1-c85c1b0c4583	Ghanṭa
+85583e4c-02a2-4fd3-9d0b-4e13086fd6a2	Mānavati
+112efe55-29b9-490f-a0b5-6c7bce8ac3fe	Gānavāridhi
+9d221807-bc21-47b3-9842-fc70ec8e7715	Vīra vasantaṁ
+bef21623-d55b-44f2-b9ee-8ba9e32ed2d1	Vēlāvali

@@ -1,0 +1,2 @@
+model_checkpoint_path: "snapshot-at-step-5000"
+all_model_checkpoint_paths: "snapshot-at-step-5000"

@@ -1,0 +1,11 @@
+In the present thesis I performed end-to-end, supervised learning with neural networks to learn and perform r\=aga classification based on the Dunya corpus of carnatic music and on the \(RRD^*\), a smaller subset of it.\\
+
+In this context, and contravening the precepts of the CompMusic project, I explicitly refrained from applying domain-specific solutions: the models and concepts that I applied were mainly based on literature that follows more closely the mainstream of the machine learning field. Whereas I based some of the decisions (like the duration of the datachunks or the augmentation model) in domain-specific musical aspects, these remain very general and could apply as well for many other domains.\\
+
+The preprocessing stage remained as well very general, in order to leverage and test the capacity of such neural networks to learn meaningful information in the context of r\=aga classification. The results of the experiments were that the different tested setups were unable to learn any relevant features for this task.\\
+
+Without excluding practical explanations for this (like flaws in my thinking process and/or implementation), one possible explanation could be that the sparseness of the relevant r\=aga information across the chosen representations used makes the learning process extremely inefficient and error-prone. The importance of a dense representation can be clearly seen in the state-of-the-art approaches (see section \ref{context_raaga}), and especially in the  the TDMS representation, which ``improves the accuracy of r\=aga recognition by large margins, without the use of any elaborated classification schema''\cite[p.192]{gulati}.\\
+
+In order to allow a neural network to learn such specialized and sparse features (and assuming this explanation as valid), two possible strategies could be to feed more data (by collecting it or via some feasible augmentation paradigm) and/or applying a more efficient preprocessing approach (for example cutting out the non-melodic sections).\\
+
+Also, for a better diagnose of the problems presented here, analyzing the histograms for the different convolutional weights, and applying the auralization techniques explained in \cite{choi-explaining} would definitely be two strategies worth exploring.

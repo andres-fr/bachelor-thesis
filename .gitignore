@@ -1,0 +1,3 @@
+flymd.*
+datasets/*
+!datasets/raaga_labels.pickle

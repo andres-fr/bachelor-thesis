@@ -1,0 +1,77 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces List of the r\=agas in (\(RRD_{CMD}\)) along with their constituent set of svaras. The contents of this table are verified by Vignesh Ishwar, a professional vocalist of carnatic music (from \cite [p.244]{gulati}. See chapter 3\hbox {} of the present thesis for a more detailled description of the r\=agas).\relax }}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Details of the r\IeC {\=a}ga recognition dataset (\(RRD_{CMD}\)) comprising Carnatic music recordings in terms of the number of different musical entities and relationships between them. (from \cite [p.85]{gulati}).\relax }}{6}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The most popular non-melodic instruments that take part in a concert of carnatic music (Source: Wikipedia). Left: t\=anpura. Top: m\d {r}da\.{n}ga\.{m}. Middle: ghatam. Bottom: kanjira.\relax }}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Pitch contours of occurrences of three different characteristic melodic phrases in Hindustani music. Contours are transposed in frequency, and shifted in time for a better visualization (from \cite [p.21]{gulati}).\relax }}{16}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces ``Spectrum of the filters in the sample-level convolution layers which are sorted by the frequency of the peak magnitude. The x-axis represents the index of the filter, and the y-axis represents the frequency'' (from \cite {wavdeep}).\relax }}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces One of the fully-convolutional neural architectures proposed in \cite {choi-fcn}. The numbers indicate the number of feature maps (i.e. channels)\relax }}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Summary of the r\=aga recognition methods in cronological order (from \cite [p.39]{gulati})\relax }}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces An example of the generated TDMS for a music piece in r\=aga Yaman, before (a) and after (b) applying post-processing (from \cite [p.195]{gulati})\relax }}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces A screenshot of the main section of Dunya's music player. Note the extracted melodic and spectral features.\relax }}{24}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces A mindmap of this chapter's contents. The concepts in the smallest font weren't used in this project, and are covered just enough to understand why (a small explanation can be found in the parentheses).\relax }}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces From \cite {darpa-slides}: Example of the inherent flaws of statistical models: for the human eye, the distorted panda looks almost identical to the original; whereas the trained model predicts a gibbon.\relax }}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The threshold function with \(t=0\) and the logistic sigmoid\cite {activation-funcs}.\relax }}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces http://stackoverflow.com/questions/1148513/difference-between-a-linear-problem-and-a-non-linear-problem-essence-of-dot-pro\relax }}{40}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces ``One should not view deep learning as an attempt to simulate the brain [...]: it is primarily concerned with how to build computer systems that are able to successfully solve tasks requiring intelligence, while the field of computational neuroscience is primarily concerned with building more accurate models of how the brain actually works.''\cite [p.17]{goodfellow}\relax }}{42}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Two different gradient descent optimizations of the same non-convex function: the slightly different starting points lead to different local minima (from \cite {coursera-ml} video: ``Gradient Descent'').\relax }}{45}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Different Time-Frequency representations of the same fragment of carnatic music. In it, a t\=anpura plays a drone, while a flute plays a melody, responded by a violin in seconds 16 and 18.\relax }}{57}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces A plot of the pitch mel scale versus Hertz scale\relax }}{58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The STFT of a rock song, for a window size of 512, and an overlapping factor of 50\%.\relax }}{60}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The wavelet transform of the same song, computed for the simplest Daubechies wavelet.\relax }}{60}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Impact of temporal aspects in the r\=agas. Although the melodic transition in both r\=agas is made through the same set of svaras S, m, and g, in the same order, the characteristics of the transition regions in the melody and the duration of the svaras are different (from \cite [p.22]{gulati}).\relax }}{63}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces The validation (above) and batch (below) accuracy for many different models tested on two classes of the \(RRD^*\) dataset.\relax }}{73}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces The confusion matrices for two different models tested on two classes of the \(RRD^*\) dataset.\relax }}{73}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The number and total duration of the recordings labeled with form.\relax }}{78}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces The number and total duration of the recordings labeled with t\=ala.\relax }}{79}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces The number and total duration of the recordings labeled with concert.\relax }}{80}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.4}{\ignorespaces The number and total duration of the recordings labeled with artist.\relax }}{81}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.5}{\ignorespaces The number and total duration of the recordings labeled with album artist.\relax }}{82}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.6}{\ignorespaces The number and total duration of the recordings labeled with r\=aga. In red are the r\=agas present in Gulati's \(RRD_{CMD}\) test set.\relax }}{83}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

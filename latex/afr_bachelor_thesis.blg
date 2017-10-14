@@ -1,0 +1,15 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'afr_bachelor_thesis.blg'
+[44] biber:287> INFO - === Mi Okt 11, 2017, 03:13:16
+[154] Biber.pm:348> INFO - Reading 'afr_bachelor_thesis.bcf'
+[329] Biber.pm:742> INFO - Found 51 citekeys in bib section 0
+[336] Biber.pm:3151> INFO - Processing section 0
+[370] Biber.pm:3308> INFO - Looking for bibtex format file 'misc/references.bib' for section 0
+[467] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[552] bibtex.pm:974> INFO - Found BibTeX data source 'misc/references.bib'
+[1422] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1423] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1423] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
+[1423] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[1548] bbl.pm:519> INFO - Writing 'afr_bachelor_thesis.bbl' with encoding 'UTF-8'
+[1701] bbl.pm:615> INFO - Output to afr_bachelor_thesis.bbl

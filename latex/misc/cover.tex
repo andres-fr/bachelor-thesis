@@ -1,0 +1,47 @@
+\documentclass[12pt]{report}
+%%% DEPENDENCIES ETC
+\usepackage[utf8]{inputenc}
+%importing from ./images
+\usepackage{graphicx}
+%fancy headers and footers
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+%importing pdfs keeping track of page number
+\usepackage{pdfpages}
+%page format (margins etc
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm]{geometry}
+% disable automatical indentation
+\setlength{\parindent}{0pt}
+
+
+
+
+
+
+\begin{document}
+\pagestyle{fancy}
+
+
+
+%cover
+\begin{titlepage}
+    \vspace{0cm}
+    \hspace*{-120pt}
+    {\makebox[l]
+      {\includegraphics[width=0.45\textwidth]{goethe-logo.png}}
+    }
+    \vspace{1.4cm}
+  {\begin{center}
+      {\LARGE Bachelor Thesis\\[2.8cm]}
+      {\LARGE \textbf{MUSIC CLASSIFICATION USING MACHINE LEARNING}\\[0.7cm]}
+      {\Large J. W. Goethe Universit\"at, Frankfurt am Main\\[0cm]}
+      {\Large Institut f\"ur Informatik, Fachbereich 12\\[2.8cm]}
+      {\LARGE \textbf{Andr\'es Fern\'andez Rodr\'iguez}\\[0.7cm]}
+      {\large \textbf{Supervised by Prof. Visvanathan Ramesh}\\[2.8cm]}
+      {\large Submission Date: 18 September 2017}\\
+    \end{center}
+  }
+\end{titlepage}
+
+
+\end{document}

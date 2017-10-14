@@ -1,0 +1,192 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% ENVIRONMENT SETUP  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt, twoside, openright]{book}
+%%% DEPENDENCIES ETC
+\usepackage[utf8]{inputenc}
+%importing pdfs keeping track of page number
+\usepackage{pdfpages}
+%page format (margins etc
+\usepackage[a4paper, width=150mm, top=25mm,bottom=25mm, bindingoffset=6mm]{geometry}
+% disable automatical indentation
+\setlength{\parindent}{0pt} 
+%fancy headers and footers
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%mathsymbols
+\usepackage{amssymb}
+%images
+\usepackage{graphicx} 
+\graphicspath{{misc/}}
+\usepackage[font={footnotesize, it}]{caption}
+
+\usepackage{subcaption}
+
+% tables https://tex.stackexchange.com/questions/75793/tabular-input-by-columns-i-e-transpose-a-table
+\usepackage{booktabs,array}
+\def\Midrule{\midrule[\heavyrulewidth]}
+\newcount\rowc
+
+\makeatletter
+\def\ttabular{%
+  \hbox\bgroup
+  \let\\\cr
+  \def\rulea{\ifnum\rowc=\@ne \hrule height 1.3pt \fi}
+  \def\ruleb{
+    \ifnum\rowc=1\hrule height 1.3pt \else
+    \ifnum\rowc=6\hrule height \heavyrulewidth 
+    \else \hrule height \lightrulewidth\fi\fi}
+  \valign\bgroup
+  \global\rowc\@ne
+  \rulea
+  \hbox to 10em{\strut \hfill##\hfill}%
+  \ruleb
+  &&%
+  \global\advance\rowc\@ne
+  \hbox to 10em{\strut\hfill##\hfill}%
+  \ruleb
+  \cr}
+\def\endttabular{%
+  \crcr\egroup\egroup}
+
+% python color code
+\usepackage{listings}
+% \usepackage{minted}
+
+% mindmaps
+\usepackage{tikz}
+\usetikzlibrary{trees}
+
+% color box for math formulas
+\usepackage[most]{tcolorbox}
+
+% thick 1 function: doublestroke package
+\usepackage{dsfont}
+\usepackage{bbm}
+
+% rotate figures
+\usepackage[figuresleft]{rotating}
+
+\fancyhead[LO,LE]{\fontsize{10}{12}\selectfont\leftmark}  % \nouppercase\leftmark
+\fancyhead[RO,RE]{\fontsize{9}{12}\selectfont\nouppercase\rightmark}
+
+% lorem ipsum dummy text generator
+\usepackage{lipsum}
+
+% for links
+\usepackage{url}
+% for math symbols etc
+\usepackage{mathtools}
+
+% bibliography manager
+\usepackage[backend=biber]{biblatex}
+\addbibresource{misc/references.bib}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% GLOBAL DEFINITIONS %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% CHANGE BULLETS FOR LISTING
+%%% original ones: $\bullet$, $\cdot$, $\diamond$, $\ast$
+\renewcommand{\labelitemi}{---}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{$\ast$}
+\renewcommand{\labelitemiv}{$\cdot$}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% START DOCUMENT     %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\includepdf{misc/cover.pdf}
+%blank page
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+\frontmatter
+
+\chapter*{Declaration of Authorship/\\Eidesstattliche Erkl\"arung}
+\addcontentsline{toc}{chapter}{Declaration of Authorship/Eidesstattliche Erkl\"arung}
+\input{chapters/authorship}
+%blank page
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Summary}
+\input{chapters/abstract}
+%blank page
+\newpage 
+\thispagestyle{empty}
+\mbox{}
+
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Foreword and Acknowledgements}
+\input{chapters/foreword}
+%blank page
+\newpage 
+\thispagestyle{empty}
+\mbox{}
+
+\tableofcontents
+
+
+% LIST OF FIGURES
+\cleardoublepage
+% \phantomsection
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
+
+\mainmatter
+
+\chapter{Summary} \label{problem-def}
+\input{chapters/summary}
+
+\chapter{About the Dataset} \label{about-ds}
+\input{chapters/dataset}
+
+\chapter{About Carnatic Music} \label{about-car}
+\input{chapters/carnatic-music}
+
+\chapter{Related Work}\label{context}
+\input{chapters/context} 
+
+\chapter{About Machine Learning} \label{about-ml}
+\input{chapters/machine-learning}
+
+\chapter{About the Implementation}\label{implementation}
+\input{chapters/implementation}
+
+\chapter{Experiments and Results}\label{experiments}
+\input{chapters/experiments}
+
+\chapter{Conclusions and Future Work}\label{conclusion}
+\input{chapters/conclusion}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% APPENDIX
+\appendix
+
+
+
+\chapter{Dataset Statistics} \label{ds-stats} %***
+\input{chapters/dataset-statistics}
+
+\chapter{Bibliography}
+\printbibliography
+
+
+
+
+
+
+\end{document}

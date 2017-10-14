@@ -1,0 +1,207 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Declaration of Authorship/Eidesstattliche Erkl\"arung}{i}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Summary}{iii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Foreword and Acknowledgements}{v}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{ix}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{x}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Summary}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}About the Dataset}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}The CompMusic Project}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}The R\=aga Recognition Dataset (\(RRD_{CMD}\))}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}About Carnatic Music}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Aesthetical Aspects}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}The Carnatic Concert}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Musical Elements}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Musical Functions}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}R\=agas: The Melodic Framework}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Svaras}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Gamakas}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ny\=as}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\=Ar\=ohana and Avr\=ohana}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Phrases and Chalans}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Further Considerations}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}T\=a\d {l}a: The Rhythmic Framework}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Layas}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Kriyas and T\=a\d {l}a Angas}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Avartanas and T\=a\d {l}as}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Final Considerations}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Related Work}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Related Work in Music Genre Recognition}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Problematic of the MGR Field}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Comparatives of Different Algorithms}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Data Representation}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Models and Architectures}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Related Work in Carnatic R\=aga Classification}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Vector Space Modelling (VSM) Approach}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Time Delayed Melodic Surface (TDMS) Approach}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Applications}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}About Machine Learning}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Machine Learning}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Supervised Learning}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Setup Formalization}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Optimization Strategy}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Caveats}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Logistic Regression}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Hypothesis for Two-Class Classification}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Hypothesis for Multinomial Classification}{33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3}One-Hot Encoding}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Cost Function and Optimization Objective}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.5}Final Intuition on Logistic Regression}{38}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Non-Linear Hypothesis}{38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Handcrafted Mapping}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Generic Mapping}{40}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Neural Networks}{41}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.1}Convolutional Networks}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Parameter Sharing}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Convolution and Pooling}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Architecture}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.6}General Concepts}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.1}Implicit Bias Notation}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.2}Gradient Descent}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Intuition Behind Gradient Descent}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Batch Gradient Descent}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Stochastic and Minibatch Gradient Descent}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Further Optimizations}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.3}KL-Divergence and Cross-Entropy}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Self-Information and Shannon entropy}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{KL-Divergence}{48}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Cross-Entropy and Intuition}{48}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}About the Implementation}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Data Downloading and Storage}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Data Representation and Preprocessing}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Converting mp3 Files to wav}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}The Fourier Transform}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analysis}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Synthesis}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Linearity}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Time/Frequency Tradeoff}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Time-Frequency Representations}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Short-Term Fourier Transform (STFT)}{56}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Log-STFT, CQT and MFCC}{56}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Data Splitting}{59}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{First Approach}{59}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Second Approach}{61}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Data Augmentation}{61}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Augmentation Paradigms}{62}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Implemented Augmentation}{62}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Data Feeding}{62}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Model Implementation}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.1}About TensorFlow}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Lifecycle and Namespaces}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Building the Graph}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Running the Graph}{65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.2}Model Definition}{65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.3}Model Training}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.4}Model Testing}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.5}Visualization with TensorBoard}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Experiments and Results}{69}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{I. MNIST}{69}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{II. Rock vs. Merengue}{70}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{III. Augmented Carnatic Corpus}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{IV. RRD\(\boldsymbol {^*}\) Dataset}{72}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{75}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Dataset Statistics}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Bibliography}{85}
