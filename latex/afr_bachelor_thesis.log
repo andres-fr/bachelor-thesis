@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.17)  14 OCT 2017 04:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.17)  16 OCT 2017 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1366,9 +1366,6 @@ File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 (./afr_bachelor_thesis.aux
 
 LaTeX Warning: Label `fig:wav-to-mfcc' multiply defined.
-
-
-LaTeX Warning: Label `crossvalidation' multiply defined.
 
 
 LaTeX Warning: Label `fig:rock_wt' multiply defined.
@@ -3772,7 +3769,7 @@ Package logreq Info: Writing requests to 'afr_bachelor_thesis.run.xml'.
 Here is how much of TeX's memory you used:
  34542 strings out of 494953
  682909 string characters out of 6180977
- 1159866 words of memory out of 5000000
+ 1159867 words of memory out of 5000000
  37230 multiletter control sequences out of 15000+600000
  22350 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -3800,7 +3797,7 @@ s/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
 fb>
-Output written on afr_bachelor_thesis.pdf (104 pages, 9673608 bytes).
+Output written on afr_bachelor_thesis.pdf (104 pages, 9673600 bytes).
 PDF statistics:
  502 PDF objects out of 1000 (max. 8388607)
  320 compressed objects within 4 object streams
